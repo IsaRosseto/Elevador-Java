@@ -4,6 +4,7 @@ Crie uma classe denominada Elevador para armazenar as informações de um elevad
 
 ##
 <h3> Requisitos da tarefa: </h3>
+
 - [x] Entra: para acrescentar uma pessoa no elevador (só deve acrescentar se ainda houver espaço);
 - [x] Sai: para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
 - [x] Sobe: para subir um andar (não deve subir se já estiver no último andar);
